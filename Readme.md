@@ -1,3 +1,3 @@
-# Backend Development With Aman
+# Youtube Like Project But having more Functionalities than Youtube
 
-This project is with javascript and backend development
+In this project we are using javascript , Express.js and Node.js
